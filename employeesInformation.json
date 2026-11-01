@@ -1,5 +1,5 @@
 {
-	"lastUpdate": "2026-10-25T14:30:09.622Z",
+	"lastUpdate": "2026-11-01T14:34:12.917Z",
 	"employees": [
 		{
 			"photo": "",
@@ -1872,7 +1872,7 @@
 			"qualification": "Инженер путей сообщения"
 		},
 		{
-			"photo": "https://www.tu-bryansk.ru/upload/main/343/martynenko.jpg",
+			"photo": "https://www.tu-bryansk.ru/upload/resize_cache/main/f9d/yevq4azcn475837bwxt0cg945ukv0h91/232_290_1/martynenko_aa.JPG",
 			"name": "Мартыненко Алексей Александрович",
 			"post": "Доцент",
 			"phone": "(4832) 56-49-90",
@@ -2952,16 +2952,6 @@
 			"qualification": "Инженер-механик"
 		},
 		{
-			"photo": "",
-			"name": "Тищенко Павел Алексеевич",
-			"post": "Доцент",
-			"phone": "(4832) 56-49-90",
-			"email": "pashaspashas@yandex.ru",
-			"faculty": "Факультет информационных технологий",
-			"department": "Компьютерные технологии и системы",
-			"qualification": "1. Инженер-механик исследователь; 2. Экономист-менеджер"
-		},
-		{
 			"photo": "https://www.tu-bryansk.ru/upload/main/1ba/tischenkoaa.jpg",
 			"name": "Тищенко Анастасия Анатольевна",
 			"post": "Доцент",
@@ -2970,6 +2960,16 @@
 			"faculty": "Факультет информационных технологий",
 			"department": "Компьютерные технологии и системы",
 			"qualification": "Инженер-механик исследователь"
+		},
+		{
+			"photo": "",
+			"name": "Тищенко Павел Алексеевич",
+			"post": "Доцент",
+			"phone": "(4832) 56-49-90",
+			"email": "pashaspashas@yandex.ru",
+			"faculty": "Факультет информационных технологий",
+			"department": "Компьютерные технологии и системы",
+			"qualification": "1. Инженер-механик исследователь; 2. Экономист-менеджер"
 		},
 		{
 			"photo": "https://www.tu-bryansk.ru/upload/main/3f6/tokarev.jpg",
@@ -3059,6 +3059,16 @@
 			"faculty": "Факультет информационных технологий",
 			"department": "Информатика и программное обеспечение",
 			"qualification": "Инженер"
+		},
+		{
+			"photo": "https://www.tu-bryansk.ru/upload/resize_cache/main/dc7/232_290_1/turusova.jpg",
+			"name": "Турусова Наталья Васильевна",
+			"post": "Начальник отдела, ассистент",
+			"phone": "(4832) 58-83-88",
+			"email": "Turusovanv@yandex.ru",
+			"faculty": "Учебно-научный институт транспорта",
+			"department": "Производство и сервис в транспортном машиностроении",
+			"qualification": "-"
 		},
 		{
 			"photo": "",
@@ -3281,7 +3291,7 @@
 		{
 			"photo": "",
 			"name": "Черномазов Николай Михайлович",
-			"post": "Ассистент",
+			"post": "Старший преподаватель",
 			"phone": "-",
 			"email": "junnior.92@mail.ru",
 			"faculty": "Факультет информационных технологий",
